@@ -1,5 +1,5 @@
 ### Aviation Risk Analysis: A Data-Driven Approach to Aircraft Acquisition
-###Project Overview
+*Project Overview
 This project analyzes historical aviation accident data from the National Transportation Safety Board (NTSB) to provide data-driven recommendations for a company looking to enter the aviation industry. The primary goal is to identify aircraft with the lowest risk profile to guide the initial fleet acquisition strategy. By exploring trends in accident frequency, severity, and contributing factors, this analysis translates raw data into actionable business intelligence.
 
 ####Business Problem
