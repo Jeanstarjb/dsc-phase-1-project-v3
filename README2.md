@@ -62,7 +62,7 @@ Focus on Established Manufacturers: Acquire aircraft from popular brands like Ce
 Adopt a Rate-Based Risk Assessment Model: When evaluating specific aircraft models, the company must use normalized metrics like "fatalities per incident" and "percentage of uninjured occupants" rather than relying on misleading raw incident counts.
 
 *Repository Contents*
-Aviation_Risk_Analysis.ipynb: The main Jupyter Notebook containing all data cleaning, analysis, and visualization code.
+student.ipynb: The main Jupyter Notebook containing all data cleaning, analysis, and visualization code.
 
 presentation.pdf: A non-technical slide deck summarizing the project's findings and recommendations for business stakeholders.
 
