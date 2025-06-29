@@ -30,22 +30,31 @@ Performed univariate and bivariate analysis to understand the relationships betw
 Created visualizations (bar charts, count plots) to identify patterns related to:
 
 Aircraft Manufacturers
+
+
 ![image](https://github.com/user-attachments/assets/cdabfd4d-cb05-47c0-82d0-e5c9ff9f021d)
 
 
 
 Number of Engines
+
+
 ![image](https://github.com/user-attachments/assets/c68dba5b-72dd-4d06-bb2d-ac02c0ba0c10)
 
 
 
 
 Aircraft Build Type (Commercial vs. Amateur)
+
+
 ![image](https://github.com/user-attachments/assets/2092b074-fb43-475e-8966-91e39a9f24a1)
 
 
 
 Geographical Location and Weather
+
+
+
 ![image](https://github.com/user-attachments/assets/31cc8d25-d7bf-4834-b5f9-67cf2cd7e05a)
 
 
