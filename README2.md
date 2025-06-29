@@ -31,11 +31,20 @@ Created visualizations (bar charts, count plots) to identify patterns related to
 
 Aircraft Manufacturers
 
+![image](https://github.com/user-attachments/assets/cdabfd4d-cb05-47c0-82d0-e5c9ff9f021d)
+
 Number of Engines
+![image](https://github.com/user-attachments/assets/c68dba5b-72dd-4d06-bb2d-ac02c0ba0c10)
+
 
 Aircraft Build Type (Commercial vs. Amateur)
+![image](https://github.com/user-attachments/assets/2092b074-fb43-475e-8966-91e39a9f24a1)
+
 
 Geographical Location and Weather
+![image](https://github.com/user-attachments/assets/31cc8d25-d7bf-4834-b5f9-67cf2cd7e05a)
+![image](https://github.com/user-attachments/assets/a9f5e4b7-58ab-4afe-be32-22940d448e86)
+
 
 Incident Outcomes (Fatal, Injured, Uninjured)
 
@@ -43,16 +52,19 @@ Incident Outcomes (Fatal, Injured, Uninjured)
 
 Synthesized the findings from the EDA to derive insights.
 
-Formulated three concrete, data-driven recommendations to guide the company's business strategy.
+Formulated  concrete, data-driven recommendations to guide the company's business strategy.
 
 *Key Findings & Visualizations*:
 Popularity vs. Risk: While manufacturers like Cessna and Piper have the highest number of total incidents, this is a function of their market dominance, not necessarily an indicator of poor safety. A rate-based analysis (e.g., accidents per flight hour) is needed for a true comparison.
 
 Engine Redundancy is Key: Multi-engine aircraft have a significantly better safety profile than single-engine aircraft, with far fewer fatal and non-fatal incidents.
 
-Certified Aircraft are Safer: Commercially manufactured aircraft, which undergo rigorous FAA certification, are demonstrably safer than amateur-built or "experimental" aircraft.
+Certified Aircraft are Safer: Commercially manufactured aircraft, which undergo rigorous  certification, are demonstrably safer than amateur-built or "experimental" aircraft.
 
 Environmental Factors Matter: Accidents are concentrated in high-traffic areas (e.g., Miami, Houston) and regions with challenging weather/terrain (e.g., Anchorage, AK).
+
+And below is an interactive dashboard craeted for your understanding
+(https://public.tableau.com/views/Aviation_Risk_Analysis_Dashboard/AviationRiskAnalysisDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 *Final Recommendations*
 Prioritize Multi-Engine, Commercially-Built Aircraft: To minimize operational risk and liability, the initial fleet should consist exclusively of commercially manufactured, multi-engine planes.
@@ -66,7 +78,7 @@ student.ipynb: The main Jupyter Notebook containing all data cleaning, analysis,
 
 presentation.pdf: A non-technical slide deck summarizing the project's findings and recommendations for business stakeholders.
 
-/data: Folder containing the raw AviationData.csv file.
+/data: Folder containing the cleaned AviationData.csv file.
 
 README.md: This file.
 
